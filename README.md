@@ -154,11 +154,6 @@ Matplotlib / Seaborn
 
 Gradio
 
-📊 Results Summary
-Model	Train Accuracy	Test Accuracy
-Random Forest	84%	82%
-XGBoost	91%	89%
-
 📌 Conclusion
 
 This project demonstrates how machine learning models can be effectively used for multi-class classification problems.
