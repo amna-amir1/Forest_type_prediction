@@ -1,4 +1,4 @@
-🌲 Forest Type Prediction using Machine Learning 
+#🌲 Forest Type Prediction using Machine Learning 
 📌 Project Overview
 
 This project focuses on forest type classification using supervised machine learning techniques.
