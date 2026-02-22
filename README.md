@@ -1,6 +1,4 @@
-# Forest_type_prediction
-A machine learning project for forest type classification using XGBoost with a Gradio-based interactive web interface.
-🌲 Forest Type Prediction using Machine Learning (XGBoost)
+🌲 Forest Type Prediction using Machine Learning 
 📌 Project Overview
 
 This project focuses on forest type classification using supervised machine learning techniques.
