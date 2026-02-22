@@ -167,7 +167,7 @@ Deploy the app on a cloud platform
 
 Improve UI design further
 
-Add model explainability (SHAP / LIME)
+Add model explainability 
 
 👩‍💻 Author
 
