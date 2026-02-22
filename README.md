@@ -1,4 +1,5 @@
 🌲 Forest Type Prediction using Machine Learning (XGBoost)
+
 📌 Project Overview
 
 This project focuses on forest type classification using supervised machine learning techniques.
@@ -62,6 +63,7 @@ Data validation before model training
 The preprocessing pipeline ensures consistent input during both training and prediction stages.
 
 🤖 Models Implemented
+
 1️⃣ Random Forest Classifier
 
 Hyperparameter tuning applied
@@ -151,10 +153,12 @@ XGBoost
 Matplotlib / Seaborn
 
 Gradio
+
 📊 Results Summary
 Model	Train Accuracy	Test Accuracy
 Random Forest	84%	82%
 XGBoost	91%	89%
+
 📌 Conclusion
 
 This project demonstrates how machine learning models can be effectively used for multi-class classification problems.
@@ -173,4 +177,5 @@ Add model explainability (SHAP / LIME)
 👩‍💻 Author
 
 Amna Bibi
+
 Machine Learning Enthusiast
